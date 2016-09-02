@@ -2,11 +2,12 @@
 title: Fore Left
 email: ryan@bridgefl.com
 description: > # this means to ignore newlines until "baseurl:"
-  We love golf and we tell our stories through pictures and blog posts. Come join us. A golf blog. Some of it serious, must of it trying to be funnt.
+  We love golf and we tell our stories through pictures and blog posts. Come join us. A golf blog. Some of it serious, must of it trying to be funny.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http:foreleftgolf.com" # the base hostname & protocol for your site
+twitter_username: foreleftgolf
+facebook_username:  foreleftgolf
+instagram_username: foreleftgolf
 
 # Build settings
 markdown: kramdown
