@@ -11,3 +11,6 @@ instagram_username: foreleftgolf
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
